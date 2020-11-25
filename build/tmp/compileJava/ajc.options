@@ -1,0 +1,10 @@
+-inpath
+C:\games\AOP\build\classes\java\main
+-classpath
+C:\Users\madax\.gradle\caches\modules-2\files-2.1\org.aspectj\aspectjrt\1.9.6\1651849d48659e5703adc2599e694bf67b8c3fc4\aspectjrt-1.9.6.jar;C:\Users\madax\.gradle\caches\modules-2\files-2.1\com.twelvemonkeys.imageio\imageio-jpeg\3.6.1\d6d53f21813c884c4337b8138e1fdd8362662596\imageio-jpeg-3.6.1.jar;C:\Users\madax\.gradle\caches\modules-2\files-2.1\com.twelvemonkeys.imageio\imageio-metadata\3.6.1\318c2f44d98667d782b23add30ad8355ce0041d5\imageio-metadata-3.6.1.jar;C:\Users\madax\.gradle\caches\modules-2\files-2.1\com.twelvemonkeys.imageio\imageio-core\3.6.1\23192c1a0f6cec57f748789d55a9fbcc3e23e88d\imageio-core-3.6.1.jar;C:\Users\madax\.gradle\caches\modules-2\files-2.1\com.twelvemonkeys.common\common-image\3.6.1\557e85717a7c2f65e59de9ed7b1119e8bf0c022f\common-image-3.6.1.jar;C:\Users\madax\.gradle\caches\modules-2\files-2.1\com.twelvemonkeys.common\common-io\3.6.1\1e5bb4f05bc9bb1a87f7bfdeb55baba31aa88be2\common-io-3.6.1.jar;C:\Users\madax\.gradle\caches\modules-2\files-2.1\com.twelvemonkeys.common\common-lang\3.6.1\dd8888bf22e7f60cb49b0a301a97469895cdade4\common-lang-3.6.1.jar
+-d
+C:\games\AOP\build\classes\java\main
+-target
+13
+-source
+13
